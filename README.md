@@ -1,3 +1,3 @@
-# Mirror HTTP Server Chart
+# Mirror HTTP Server Chart using Flagger
 
-This chart has been created for the article "Flagger – Get Started with Istio and Kubernetes".
+This chart has been created for the article "Flagger – Canary deployments on Kubernetes".
